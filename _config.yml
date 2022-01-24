@@ -8,6 +8,8 @@ plugins:
 
 sitemap: true
 
+remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
+
 layout: page
 title: "News"
 permalink: /news/
