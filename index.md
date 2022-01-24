@@ -1,15 +1,7 @@
-- TOC
+## Wake Forest IRSC Lab
 {:toc}
 
-## Wake Forest IRSC Lab
-
-[Home](index.md)
-[News](news.md)
-[Members](members.md)
-[Research](research.md)
-[Projects](projects.md)
-[Publications](publications.md)
-[Contact](contact.md)
+[Home](index.md) [News](news.md) [Members](members.md) [Research](research.md) [Projects](projects.md) [Publications](publications.md) [Contact](contact.md)
 
 You can use the [editor on GitHub](https://github.com/IRSC-WFU/irsc-wfu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
