@@ -471,8 +471,8 @@ function showSlides(n) {
   color: white;
   transform: rotateY(180deg);
   border-radius: 10%;
-  font-size: 30px;
-  font-size: 3.5vw;
+  font-size: 16px;
+  font-size: 1vw;
 }
 </style>
 
