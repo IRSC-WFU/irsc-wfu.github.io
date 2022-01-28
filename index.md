@@ -210,7 +210,7 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/members/silman.tif" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/silman.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
             <h1><a href="/members/miles_silman">Miles Silman</a></h1>
@@ -236,12 +236,13 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/david_lutz.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/david_lutz">David A. Lutz</a></h1>
+            <p>Research Assistant Professor</p>
+            <p>Department of Environmental Studies</p>
+            <p>Dartmouth College</p>
             </div>
         </div>
     </div>
