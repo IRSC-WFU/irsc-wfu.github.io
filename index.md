@@ -425,7 +425,7 @@ function showSlides(n) {
 
 .member-table {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /*grid with 4 columns .. edit the number to change grid columns*/
+    grid-auto-flow: column;
     justify-items: center;
     align-items: center;
     grid-gap: 15px;
@@ -436,7 +436,6 @@ function showSlides(n) {
   background-color: transparent;
   width: 220px;
   height: 220px;
-  border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
