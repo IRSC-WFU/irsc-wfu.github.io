@@ -468,6 +468,7 @@ function showSlides(n) {
   background-color: grey;
   color: white;
   transform: rotateY(180deg);
+  border-radius: 10%;
 }
 </style>
 
