@@ -12,7 +12,7 @@ Insert Lab Description
 -------------------------
 ### [News](news.md)
 
-
+<!--- Begin News Feed Slideshow --->
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -117,19 +117,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
+  <img src="media/test_puppy.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
+  <img src="media/test_puppy.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
+  <img src="media/test_puppy.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
@@ -173,7 +173,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
+<!--- End News Feed Slideshow --->
 
 -------------------------
 ### [Members](members.md)
@@ -181,36 +181,36 @@ function showSlides(n) {
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <table>
     <tr>
-        <td><img src="img1.png" alt="1" width = 360px height = 640px ></td>
-        <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
+        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
     </tr> 
     <tr>
-        <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
-        <td><img src="./Scshot/trip_end.png" alt="4" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
     </tr>
 </table>
 
 #### Researchers
 <table>
     <tr>
-        <td><img src="img1.png" alt="1" width = 360px height = 640px ></td>
-        <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
+        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
     </tr> 
     <tr>
-        <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
-        <td><img src="./Scshot/trip_end.png" alt="4" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
     </tr>
 </table>
 
 #### Student Research Team
 <table>
     <tr>
-        <td><img src="img1.png" alt="1" width = 360px height = 640px ></td>
-        <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
+        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
     </tr> 
     <tr>
-        <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
-        <td><img src="./Scshot/trip_end.png" alt="4" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
+        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
     </tr>
 </table>
 
