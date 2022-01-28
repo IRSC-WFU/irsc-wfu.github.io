@@ -201,7 +201,6 @@ function showSlides(n) {
         <div class="flip-card-back">
             <h1><a href="/members/paul_pauca">Paúl Pauca</a></h1>
             <p>Professor</p>
-            <p>We love that guy</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
             </div>
@@ -245,19 +244,7 @@ function showSlides(n) {
             <p>Dartmouth College</p>
             </div>
         </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>        
+    </div>       
 </div>
 
 #### Researchers
@@ -265,75 +252,42 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/Seda-Camalan.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/seda_camalan">Seda Camalan</a></h1>
+            <p>Postdoctoral Fellow</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/evan new.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/evan_dethier">Evan Dethier</a></h1>
+            <p>Postdoctoral Fellow</p>
+            <p>Department of Earth Sciences</p>
+            <p>Dartmouth College</p>
             </div>
         </div>
     </div>
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/robert_langefeld.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/robert_langefeld">Robert Langefeld</a></h1>
+            <p>Researcher</p>
+            <p>Departments of Mathematics and Computer Science</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>        
 </div>
 
 #### Student Research Team
@@ -472,8 +426,7 @@ function showSlides(n) {
   color: white;
   transform: rotateY(180deg);
   border-radius: 10%;
-  font-size: 16px;
-  font-size: 1vw;
+  display: block;
 }
 </style>
 
