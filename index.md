@@ -339,7 +339,7 @@ function showSlides(n) {
 </table>
 
 #### Student Research Team
-<div id="member-table">
+<div class="member-table">
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
