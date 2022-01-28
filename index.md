@@ -427,7 +427,9 @@ function showSlides(n) {
     width: 100%;
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-start;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
