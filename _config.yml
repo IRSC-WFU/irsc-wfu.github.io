@@ -3,6 +3,11 @@ title: Wake Forest IRSC Lab
 markdown: kramdown
 description: IRSC Lab at Wake Forest University in Winston-Salem, North Carolina.
 
+collections:
+  members:
+    output: true
+    permalink: /members/:path
+
 layout: page
 title: "News"
 permalink: /news/
@@ -25,9 +30,4 @@ permalink: /publications/
 
 layout: page
 title: "Contact"
-permalink: /Contact/
-
-
-layout: page
-title: "Robert Langefeld"
-permalink: /members/robert_langefeld
+permalink: /contact/
