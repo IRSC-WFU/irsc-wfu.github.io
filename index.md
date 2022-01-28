@@ -308,12 +308,13 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/media/isaias_bahena.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
+            <p>Undergraduate Research Assistant</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
