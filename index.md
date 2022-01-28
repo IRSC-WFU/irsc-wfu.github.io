@@ -196,7 +196,7 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/Paul2.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/Paul2.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
             <h1><a href="/members/paul_pauca">Paúl Pauca</a></h1>
@@ -210,24 +210,26 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/silman.tif" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/miles_silman">Miles Silman</a></h1>
+            <p>Professor</p>
+            <p>Department of Biology</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/Luis.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1><a href="/members/luis_fernandez">Luis E. Fernandez</a></h1>
+            <p>Executive Director</p>
+            <p>Amazonian Scientific Innovation</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
@@ -469,7 +471,8 @@ function showSlides(n) {
   color: white;
   transform: rotateY(180deg);
   border-radius: 10%;
-  font-size: 1vw;
+  font-size: 30px;
+  font-size: 3.5vw;
 }
 </style>
 
