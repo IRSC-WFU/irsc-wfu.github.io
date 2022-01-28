@@ -3,6 +3,10 @@
 /* #@import 'jekyll-theme-cayman';*/
 @import "{{ site.theme }}";
 
+nav.main-nav {
+	text-align: center;
+}
+
 nav.main-nav ul {
 	margin: 0;
 	padding: 0;
