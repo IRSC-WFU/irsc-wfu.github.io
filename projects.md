@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+navigation_weight: 6
+---
 ## Projects
 Here you'll find a list of the projects from Wake Forest's IRSC Lab.
 

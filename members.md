@@ -1,3 +1,8 @@
+---
+layout: default
+title: Members
+navigation_weight: 3
+---
 ## Members
 <!-- Want to add links to individual pages for each lab member with biography and photo -->
 At the Wake Forest IRSC Lab, we have many members in various roles.
