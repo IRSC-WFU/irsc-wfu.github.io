@@ -295,12 +295,13 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/adelina_sederman.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h2>John Doe</h2>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h2><a href="/members/adelina_sederman">Adelina Sederman</a></h2>
+            <p>Undergraduate Research Assistant</p>
+            <p>Department of Engineering Sciences and Environmental Sciences</p>
+            <p>Dartmouth College</p>
             </div>
         </div>
     </div>
