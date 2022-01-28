@@ -179,37 +179,49 @@ function showSlides(n) {
 ### [Members](members.md)
 #### Faculty
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
-<table>
+<table id="member-table">
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
 
 #### Researchers
-<table>
+<table id="member-table">
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
 
 #### Student Research Team
-<table>
+<table id="member-table">
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
@@ -217,6 +229,10 @@ function showSlides(n) {
 <style>
 #member-img {
   border-radius: 50%;
+}
+
+#member-table {
+    border: none;
 }
 </style>
 
