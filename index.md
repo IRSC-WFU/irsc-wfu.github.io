@@ -11,6 +11,8 @@ Insert Lab Description
 
 -------------------------
 ### [News](news.md)
+
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -110,8 +112,6 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-</head>
-<body>
 
 <div class="slideshow-container">
 
