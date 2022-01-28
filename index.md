@@ -181,38 +181,44 @@ function showSlides(n) {
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <table>
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
-        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
-        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
 
 #### Researchers
 <table>
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
-        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 640px></td>
     </tr> 
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
-        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
 
 #### Student Research Team
 <table>
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="1" width = 360px height = 640px ></td>
-        <td><img src="media/test_puppy.jpg" alt="2" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
-        <td><img src="media/test_puppy.jpg" alt="3" width = 360px height = 640px></td>
-        <td><img src="media/test_puppy.jpg" alt="4" width = 360px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="4" width = 200px height = 200px></td>
     </tr>
 </table>
+
+<style>
+img.member-img {
+  border-radius: 50%;
+}
+</style>
 
 
 -------------------------
