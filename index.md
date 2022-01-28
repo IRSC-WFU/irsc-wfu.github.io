@@ -179,164 +179,156 @@ function showSlides(n) {
 ### [Members](members.md)
 #### Faculty
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
-<table id="member-table">
-    <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-    </tr> 
-    <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-    </tr>
-</table>
+<div class="member-table">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>        
+</div>
 
 #### Researchers
-<table id="member-table">
-    <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-    </tr> 
-    <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
-    </tr>
-</table>
+<div class="member-table">
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front">
+                <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+            </div>
+        <div class="flip-card-back">
+            <h1>John Doe</h1>
+            <p>Architect & Engineer</p>
+            <p>We love that guy</p>
+            </div>
+        </div>
+    </div>        
+</div>
 
 #### Student Research Team
 <div class="member-table">
@@ -430,13 +422,15 @@ function showSlides(n) {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+    row-gap: 10px;
+    column-gap: 10px;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
@@ -466,13 +460,12 @@ function showSlides(n) {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
   color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: grey;
   color: white;
   transform: rotateY(180deg);
 }
