@@ -194,7 +194,7 @@ function showSlides(n) {
 <table>
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
-        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 640px></td>
+        <td><img id="member-img" src="media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
     </tr> 
     <tr>
         <td><img id="member-img" src="media/test_puppy.jpg" alt="3" width = 200px height = 200px></td>
@@ -215,7 +215,7 @@ function showSlides(n) {
 </table>
 
 <style>
-img.member-img {
+#member-img {
   border-radius: 50%;
 }
 </style>
