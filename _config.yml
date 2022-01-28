@@ -3,10 +3,6 @@ title: Wake Forest IRSC Lab
 markdown: kramdown
 description: A.S.G.M. or Artisanal Small-Scale Gold Mining is a common practice in the Amazon rainforest that has been shown to contribute to alarming levels of deforestation and loss of biodiversity. The IRSC Lab at Wake Forest University is an interdisciplinary lab combining researchers from the Computer Science and Biology departments. The Wake Forest IRSC Lab utilizes machine learning algorithms that are deployed to automated drones to monitor areas of known and/or rapidly developing deforestation.
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
-
 layout: page
 title: "News"
 permalink: /news/
