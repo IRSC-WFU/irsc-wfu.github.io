@@ -308,7 +308,7 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/media/isaias_bahena.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/isaias_bahena.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
             <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
