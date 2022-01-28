@@ -410,6 +410,7 @@ function showSlides(n) {
 <style>
 .member-img {
   border-radius: 10%;
+  object-fit: cover;
 }
 
 .member-table {
