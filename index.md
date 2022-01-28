@@ -186,7 +186,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/Alqahtani.png" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h1>
+            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
             <p>Assistant Professor</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
@@ -199,7 +199,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/Paul2.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/paul_pauca">Paúl Pauca</a></h1>
+            <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
             <p>Professor</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
@@ -212,7 +212,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/silman.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/miles_silman">Miles Silman</a></h1>
+            <h2><a href="/members/miles_silman">Miles Silman</a></h2>
             <p>Professor</p>
             <p>Department of Biology</p>
             <p>Wake Forest University</p>
@@ -225,7 +225,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/Luis.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/luis_fernandez">Luis E. Fernandez</a></h1>
+            <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
             <p>Executive Director</p>
             <p>Amazonian Scientific Innovation</p>
             <p>Wake Forest University</p>
@@ -238,7 +238,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/david_lutz.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/david_lutz">David A. Lutz</a></h1>
+            <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
             <p>Research Assistant Professor</p>
             <p>Department of Environmental Studies</p>
             <p>Dartmouth College</p>
@@ -255,7 +255,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/Seda-Camalan.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/seda_camalan">Seda Camalan</a></h1>
+            <h2><a href="/members/seda_camalan">Seda Camalan</a></h2>
             <p>Postdoctoral Fellow</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
@@ -268,7 +268,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/evan new.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/evan_dethier">Evan Dethier</a></h1>
+            <h2><a href="/members/evan_dethier">Evan Dethier</a></h2>
             <p>Postdoctoral Fellow</p>
             <p>Department of Earth Sciences</p>
             <p>Dartmouth College</p>
@@ -281,7 +281,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/robert_langefeld.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1><a href="/members/robert_langefeld">Robert Langefeld</a></h1>
+            <h2><a href="/members/robert_langefeld">Robert Langefeld</a></h2>
             <p>Researcher</p>
             <p>Departments of Mathematics and Computer Science</p>
             <p>Wake Forest University</p>
@@ -298,7 +298,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
+            <h2>John Doe</h2>
             <p>Architect & Engineer</p>
             <p>We love that guy</p>
             </div>
