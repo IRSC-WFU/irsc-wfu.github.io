@@ -425,7 +425,7 @@ function showSlides(n) {
 
 .member-table {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-auto-flow: column;
     padding: 10px;
 }
 
