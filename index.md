@@ -427,9 +427,6 @@ function showSlides(n) {
   transform: rotateY(180deg);
   border-radius: 10%;
   display: block;
-}
-
-.flip-card-back > p {
   font-size: 1.5vh;
 }
 </style>
