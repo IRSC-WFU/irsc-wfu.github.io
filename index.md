@@ -232,7 +232,7 @@ function showSlides(n) {
 }
 
 #member-table {
-    border: none;
+    border-collapse: collapse;
 }
 </style>
 
