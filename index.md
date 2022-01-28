@@ -217,32 +217,8 @@ function showSlides(n) {
                     </div>
                 </div>
             </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
     </tr> 
     <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
         <td><div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
@@ -321,32 +297,8 @@ function showSlides(n) {
                     </div>
                 </div>
             </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
     </tr> 
     <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
         <td><div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
@@ -425,32 +377,8 @@ function showSlides(n) {
                     </div>
                 </div>
             </div></td>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
     </tr> 
     <tr>
-        <td><div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-                    </div>
-                <div class="flip-card-back">
-                    <h1>John Doe</h1>
-                    <p>Architect & Engineer</p>
-                    <p>We love that guy</p>
-                    </div>
-                </div>
-            </div></td>
         <td><div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
