@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+navigation_weight: 1
+---
+
 ## Wake Forest IRSC Lab
 {:toc}
 
