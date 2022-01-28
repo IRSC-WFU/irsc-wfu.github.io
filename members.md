@@ -12,7 +12,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <table id="member-table">
     <tr>
-        <td><img id="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px ></td>
+        <td><img id="member-img" src="/media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="/media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="/media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
         <td><img id="member-img" src="/media/test_puppy.jpg" alt="2" width = 200px height = 200px></td>
