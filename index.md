@@ -425,8 +425,10 @@ function showSlides(n) {
 
 .member-table {
     display: grid;
-    grid-auto-flow: column;
-    padding: 10px;
+    grid-template-columns: repeat(4, 1fr); /*grid with 4 columns .. edit the number to change grid columns*/
+    justify-items: center;
+    align-items: center;
+    grid-gap: 15px;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
