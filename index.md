@@ -427,7 +427,10 @@ function showSlides(n) {
   transform: rotateY(180deg);
   border-radius: 10%;
   display: block;
+  font-size: 0.5 vh;
 }
+
+
 </style>
 
 
