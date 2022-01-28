@@ -8,7 +8,7 @@ navigation_weight: 3
 At the Wake Forest IRSC Lab, we have many members in various roles.
 
 ### Faculty
-Several faculty from multiple departments at Wake Forest and at other universities.
+Several faculty from multiple departments at Wake Forest and at other universities work at .
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <table id="member-table">
     <tr>
