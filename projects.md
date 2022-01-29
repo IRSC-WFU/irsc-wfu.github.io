@@ -7,7 +7,7 @@ navigation_weight: 6
 Here you'll find a list of the projects from Wake Forest's IRSC Lab.
 
 ### Current Projects
-#### [Change Detection](change_detection.md)
+#### [Change Detection](/projects/change_detection.md)
 Basic description of project
 Eye-catching figures from project
 Link to full project page
