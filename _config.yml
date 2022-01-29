@@ -7,6 +7,9 @@ collections:
   members:
     output: true
     permalink: /members/:path
+  projects:
+    output: true
+    permalink: /projects/:path
 
 layout: page
 title: "News"
