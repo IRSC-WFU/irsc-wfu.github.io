@@ -325,6 +325,7 @@ function showSlides(n) {
         <div class="flip-card-back">
             <h1>Daniel Langefeld</h1>
             <p>Research Assistant</p>
+            <p>High School Senior</p>
             <p>Wesleyan Christian Academy</p>
             </div>
         </div>
