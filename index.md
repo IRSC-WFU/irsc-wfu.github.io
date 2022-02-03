@@ -439,18 +439,27 @@ Our lab explores novel methods and applications for computational technology to 
 - Accurate satellite and drone image segmentation
 - Large-scale object identification
 - Time series analyses of mining regions
+
     - Change detection
     - Predicting new mining activity
+
 - Data fusion techniques
+
     - Methods for combining data from different sources
     - Methods for generalizing models to different sources
+
 - Statistical analyses of regions
+
     - Object significance
     - Relationships with environmental significance
+
 - High performance computing solutions
+
     - Methods that leverage computation for better results
     - Efficient methods that are accessible and open source for researchers without a computer science background
+
 - Software development
+
     - Software design to integrate machine learning models and predictions
 
 
