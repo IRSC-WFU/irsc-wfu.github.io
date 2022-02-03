@@ -298,7 +298,7 @@ function showSlides(n) {
             </div>
         <div class="flip-card-back">
             <h2><a href="/members/adelina_sederman">Adelina Sederman</a></h2>
-            <p>Undergraduate Research Assistant</p>
+            <p>Research Assistant</p>
             <p>Department of Engineering Sciences and Environmental Sciences</p>
             <p>Dartmouth College</p>
             </div>
@@ -311,7 +311,7 @@ function showSlides(n) {
             </div>
         <div class="flip-card-back">
             <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
-            <p>Undergraduate Research Assistant</p>
+            <p>Research Assistant</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
             </div>
@@ -320,12 +320,12 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/daniel_langefeld.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h1>Daniel Langefeld</h1>
+            <p>Research Assistant</p>
+            <p>Wesleyan Christian Academy</p>
             </div>
         </div>
     </div>
@@ -442,7 +442,7 @@ Our lab explores novel methods and applications for computational technology to 
 * Time series analyses of mining regions
     * Change detection
     * Predicting new mining activity
-    
+
 
 * Data fusion techniques
     * Methods for combining data from different sources
