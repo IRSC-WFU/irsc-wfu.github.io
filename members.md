@@ -201,7 +201,7 @@ The IRSC Lab has several researchers working on various projects.
 </div>
 
 ### Student Research Team
-The IRSC Lab works with students in multiple departments, schools, and universities to train them in conducting research with the kinds of projects we work with. These students are currently conducting research with our lab and working towards publications and future work in this and related fields.
+Meet our Student Research Team! The IRSC Lab works with students in multiple departments, schools, and universities to train them in conducting research with the kinds of projects we work with. These students are currently conducting research with our lab and working towards publications and future work in this and related fields.
 <div class="card-wrapper">
     <div class="card-box">
         <a class="card-link" href="/members/adelina_sederman">
