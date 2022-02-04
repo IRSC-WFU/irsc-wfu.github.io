@@ -215,6 +215,9 @@ function showSlides(n) {
         </span>
     </div>
     <div class="comb">
+        <h2>Faculty</h2>
+    </div>
+    <div class="comb">
         <img src="/media/members/david_lutz.jpg" />
         <span>
             <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
