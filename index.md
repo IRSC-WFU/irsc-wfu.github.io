@@ -177,31 +177,6 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<div class="profiles-wrapper">
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/Alqahtani.png"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
-            <p>Assistant Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/Paul2.jpg"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/paul_pauca">Paúl Pauca</a></h3>
-            <p>Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-</div>
-
 <style>
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -220,6 +195,7 @@ function showSlides(n) {
 
 .caption h3,p {
     text-align: center
+    font-size: 16em;
 }
 
 .card-container {
@@ -228,6 +204,17 @@ function showSlides(n) {
 </style>
 
 <div class="member-table">
+    <div class="card">
+        <div class="img">
+            <img src="/media/members/Alqahtani.png"/>
+        </div>
+        <div class="caption">
+            <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
+            <p>Assistant Professor<br>
+            Department of Computer Science<br>
+            Wake Forest University</p>
+        </div>
+    </div>
     <div class="card">
         <div class="img">
             <img src="/media/members/Paul2.jpg"/>
@@ -239,71 +226,39 @@ function showSlides(n) {
             <p>Wake Forest University</p>
         </div>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/Alqahtani.png" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
-            <p>Assistant Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
+    <div class="card">
+        <div class="img">
+            <img src="/media/members/silman.jpg"/>
         </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/Paul2.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
-            <p>Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/silman.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/miles_silman">Miles Silman</a></h2>
+        <div class="caption">
+            <h3><a href="/members/miles_silman">Miles Silman</a></h3>
             <p>Professor</p>
             <p>Department of Biology</p>
             <p>Wake Forest University</p>
-            </div>
         </div>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/Luis.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
+    <div class="card">
+        <div class="img">
+            <img src="/media/members/Luis.jpg"/>
+        </div>
+        <div class="caption">
+            <h3><a href="/members/luis_fernandez">Luis E. Fernandez</a></h3>
             <p>Executive Director</p>
             <p>Amazonian Scientific Innovation</p>
             <p>Wake Forest University</p>
-            </div>
         </div>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/david_lutz.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
+    <div class="card">
+        <div class="img">
+            <img src="/media/members/david_lutz.jpg"/>
+        </div>
+        <div class="caption">
+            <h3><a href="/members/david_lutz">David A. Lutz</a></h3>
             <p>Research Assistant Professor</p>
             <p>Department of Environmental Studies</p>
             <p>Dartmouth College</p>
-            </div>
         </div>
-    </div>       
+    </div>     
 </div>
 
 #### Researchers
