@@ -177,8 +177,6 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
 <style>
 *{
     margin:0;
@@ -220,6 +218,9 @@ function showSlides(n) {
     transform-style: preserve-3d;
     transform: perspective(800px) 
 }
+.card-box{
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
 .description {
     text-align: center;
 }
@@ -228,6 +229,11 @@ function showSlides(n) {
     font-size:2.5rem;
     text-align: center;
     font-family: 'Acme', sans-serif;
+}
+.description h2 > a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
 .description p{
     color:#ccc;
@@ -273,16 +279,15 @@ ul.list li:hover .fa-linkedin-in{
 
 <div class="card-wrapper">
     <div class="card-box">
-        <div class="description">
-            <img src="/media/members/Alqahtani.png" width="75%"/>
-            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
-            <p>Assistant Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            <ul class="list">
-                <li><a href="https://github.com/rlangefe"><i class="fab fa-github"></i></a></li>
-            </ul>
-        </div>
+        <a href="/members/sarra_alqahtani">
+            <div class="description">
+                <img src="/media/members/Alqahtani.png" width="75%"/>
+                <h2>Sarra Alqahtani</h2>
+                <p>Assistant Professor</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
     </div>
 </div>
 
