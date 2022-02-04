@@ -11,11 +11,6 @@ At the Wake Forest IRSC Lab, we have many members in various roles.
 Several faculty from multiple departments at Wake Forest and at other universities work with the IRSC Lab.
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-}
 .card-body{
     min-height:100vh;
     display: flex;

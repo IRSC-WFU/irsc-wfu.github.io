@@ -178,11 +178,6 @@ function showSlides(n) {
 ### [Members](members.md)
 #### Faculty
 <style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-}
 .card-body{
     min-height:100vh;
     display: flex;
