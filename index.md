@@ -206,7 +206,6 @@ function showSlides(n) {
     position: relative;
     width:280px;
     height:400px;
-    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
     border-radius:15px;
     margin:30px;
     display: flex;
@@ -252,9 +251,8 @@ function showSlides(n) {
     text-decoration: none;
 }
 .card-box:hover{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
     transition: 0.3s;
-    border-radius: 5px;
 }
 </style>
 
