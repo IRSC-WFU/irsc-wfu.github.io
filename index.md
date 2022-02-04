@@ -190,9 +190,8 @@ function showSlides(n) {
     align-items: center;
 }
 .card-wrapper{
-    width:100%;
+    width:140%;
     height:100%;
-    min-height: 100vh;
     position: relative;
     display: flex;
     justify-content: center;
