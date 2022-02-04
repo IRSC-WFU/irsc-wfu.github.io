@@ -219,6 +219,9 @@ function showSlides(n) {
     transform-style: preserve-3d;
     transform: perspective(800px) 
 }
+.description {
+    text-align: center;
+}
 .description h2{
     color:#f5f5f5;
     font-size:2.5rem;
@@ -230,6 +233,12 @@ function showSlides(n) {
     margin:20px 10px;
     font-family: 'Fira Code', monospace;
 }
+
+.description img{
+    width: 75%;
+    border-radius: 50%;
+}
+
 .description ul{
     list-style: none;
     width:100%;
@@ -264,7 +273,7 @@ ul.list li:hover .fa-linkedin-in{
 </style>
 
 <script>
- VanillaTilt.init(document.querySelectorAll(".box"), {
+ VanillaTilt.init(document.querySelectorAll(".card-box"), {
 		max: 25,
         speed: 400,
         easing:"cubic-bezier(.03,.98,.52,.99)",
@@ -276,11 +285,11 @@ ul.list li:hover .fa-linkedin-in{
 <div class="card-wrapper">
     <div class="card-box">
         <div class="description">
+            <img src="/media/members/Alqahtani.png" width="75%"/>
             <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
             <p>Assistant Professor</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
-            <img src="/media/members/Alqahtani.png"/>
             <ul class="list">
                 <li><a href="https://github.com/rlangefe"><i class="fab fa-github"></i></a></li>
             </ul>
