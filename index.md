@@ -240,7 +240,7 @@ function showSlides(n) {
     width: 75%;
     border-radius: 50%;
 }
-.description a:hover{
+.card-link:hover{
     text-decoration: none;
 }
 </style>
@@ -254,6 +254,50 @@ function showSlides(n) {
                 <p>Assistant Professor</p>
                 <p>Department of Computer Science</p>
                 <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/paul_pauca">
+            <div class="description">
+                <img src="/media/members/Paul2.jpg" width="75%"/>
+                <h2>Paúl Pauca</h2>
+                <p>Professor</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/miles_silman">
+            <div class="description">
+                <img src="/media/members/silman.jpg" width="75%"/>
+                <h2>Miles Silman</h2>
+                <p>Professor</p>
+                <p>Department of Biology</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/luis_fernandez">
+            <div class="description">
+                <img src="/media/members/Luis.jpg" width="75%"/>
+                <h2>Luis E. Fernandez</h2>
+                <p>Executive Director</p>
+                <p>Amazonian Scientific Innovation</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/david_lutz">
+            <div class="description">
+                <img src="/media/members/david_lutz.jpg" width="75%"/>
+                <h2>David A. Lutz</h2>
+                <p>Research Assistant Professor</p>
+                <p>Department of Environmental Studies</p>
+                <p>Dartmouth College</p>
             </div>
         </a>
     </div>
