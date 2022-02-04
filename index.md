@@ -179,16 +179,16 @@ function showSlides(n) {
 #### Faculty
 <div class="honeycombs">
     <div class="comb">
-      <img src="/media/members/Alqahtani.png" />
-      <span>
-        <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
-        <p>Assistant Professor</p>
-        <p>Department of Computer Science</p>
-        <p>Wake Forest University</p>
-      </span>
+        <img src="/media/members/Alqahtani.png" />
+        <span>
+            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
+            <p>Assistant Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
+        </span>
     </div>
     <div class="comb">
-      <img src="/media/members/Paul2.jpg" /> 
+        <img src="/media/members/Paul2.jpg" /> 
         <span>
             <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
             <p>Professor</p>
@@ -203,6 +203,24 @@ function showSlides(n) {
             <p>Professor</p>
             <p>Department of Biology</p>
             <p>Wake Forest University</p>
+        </span>
+    </div>
+    <div class="comb">
+        <img src="/media/members/Luis.jpg" />
+        <span>
+            <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
+            <p>Executive Director</p>
+            <p>Amazonian Scientific Innovation</p>
+            <p>Wake Forest University</p>
+        </span>
+    </div>
+    <div class="comb">
+        <img src="/media/members/david_lutz.jpg" />
+        <span>
+            <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
+            <p>Research Assistant Professor</p>
+            <p>Department of Environmental Studies</p>
+            <p>Dartmouth College</p>
         </span>
     </div>
 </div>
