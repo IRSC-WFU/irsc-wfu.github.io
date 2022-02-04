@@ -206,7 +206,7 @@ function showSlides(n) {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 40%;
+  width: 20%;
   border-radius: 5px;
 }
 
@@ -218,12 +218,27 @@ function showSlides(n) {
   border-radius: 5px 5px 0 0;
 }
 
+.caption h3,p {
+    text-align: center
+}
+
 .card-container {
   padding: 2px 16px;
 }
 </style>
 
 <div class="member-table">
+    <div class="card">
+        <div class="img">
+            <img src="/media/members/Paul2.jpg"/>
+        </div>
+        <div class="caption">
+            <h3><a href="/members/paul_pauca">Paúl Pauca</a></h3>
+            <p>Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
+        </div>
+    </div>
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
