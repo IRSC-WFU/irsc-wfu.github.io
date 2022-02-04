@@ -226,60 +226,28 @@ function showSlides(n) {
 }
 .description h2{
     color:#f5f5f5;
-    font-size:2.5rem;
+    font-size:2rem;
     text-align: center;
     font-family: 'Acme', sans-serif;
-}
-.description h2 > a{
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
 }
 .description p{
     color:#ccc;
     margin:20px 10px;
     font-family: 'Fira Code', monospace;
+    font-size: 1rem;
 }
 .description img{
     width: 75%;
     border-radius: 50%;
 }
-.description ul{
-    list-style: none;
-    width:100%;
-    display: flex;
-    justify-content: space-evenly;
-    margin:30px 0;
-    padding:10px;
-}
-
-ul.list li{
-    cursor: pointer;
-    width:30px;
-    height:30px;
-}
-i{
-    color:#ccc;
-    font-size: 1.5rem;
-    transition: all 0.3s ease;
-}
-ul.list li:hover .fa-twitter{
-    transform:translate3d(0,-10px,20px);
-    color:#00acee;
-}
-ul.list li:hover .fa-github{
-    transform:translate3d(0,-10px,20px);
-    color:gray;
-}
-ul.list li:hover .fa-linkedin-in{
-    transform:translate3d(0,-10px,20px);
-    color:#077099;
+.description a:hover{
+    text-decoration: none;
 }
 </style>
 
 <div class="card-wrapper">
     <div class="card-box">
-        <a href="/members/sarra_alqahtani">
+        <a class="card-link" href="/members/sarra_alqahtani">
             <div class="description">
                 <img src="/media/members/Alqahtani.png" width="75%"/>
                 <h2>Sarra Alqahtani</h2>
