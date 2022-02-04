@@ -367,83 +367,59 @@ function showSlides(n) {
 </div>
 
 #### Student Research Team
-<div class="member-table">
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/adelina_sederman.jpg" alt="1" width = 200px height = 200px >
+<div class="card-wrapper">
+    <div class="card-box">
+        <a class="card-link" href="/members/adelina_sederman">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/adelina_sederman.jpg"/>
+                </div>
+                <h2>Adelina Sederman</h2>
+                <p>Research Assistant</p>
+                <p>Department of Engineering Sciences and Environmental Sciences</p>
+                <p>Dartmouth College</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/adelina_sederman">Adelina Sederman</a></h2>
-            <p>Research Assistant</p>
-            <p>Department of Engineering Sciences and Environmental Sciences</p>
-            <p>Dartmouth College</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/isaias_bahena.jpg" alt="1" width = 200px height = 200px >
+    <div class="card-box">
+        <a class="card-link" href="/members/isaias_bahena">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/isaias_bahena.jpg"/>
+                </div>
+                <h2>Isaias Bahena</h2>
+                <p>Research Assistant</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
-            <p>Research Assistant</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/daniel_langefeld.jpg" alt="1" width = 200px height = 200px >
+    <div class="card-box">
+        <a class="card-link" href="/members/daniel_langefeld">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/daniel_langefeld.jpg"/>
+                </div>
+                <h2>Daniel Langefeld</h2>
+                <p>Research Assistant</p>
+                <p>High School Senior</p>
+                <p>Wesleyan Christian Academy</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/daniel_langefeld">Daniel Langefeld</a></h2>
-            <p>Research Assistant</p>
-            <p>High School Senior</p>
-            <p>Wesleyan Christian Academy</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/alice_li.jpg" alt="1" width = 200px height = 200px >
+    <div class="card-box">
+        <a class="card-link" href="/members/alice_li">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/alice_li.jpg"/>
+                </div>
+                <h2>Alice Li</h2>
+                <p>Research Assistant</p>
+                <p>Departments of Statistics and Computer Science</p>
+                <p>Wake Forest University</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/alice_li">Alice Li</a></h2>
-            <p>Research Assistant</p>
-            <p>Departments of Statistics and Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
-            </div>
-        <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-            </div>
-        </div>
-    </div>        
 </div>
 
 <style>
