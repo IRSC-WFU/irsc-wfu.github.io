@@ -236,9 +236,12 @@ function showSlides(n) {
     font-family: 'Fira Code', monospace;
     font-size: 1rem;
 }
-.description img{
-    width: 75%;
-    border-radius: 50%;
+.image-cropper {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
 }
 .card-link:hover{
     text-decoration: none;
@@ -249,7 +252,9 @@ function showSlides(n) {
     <div class="card-box">
         <a class="card-link" href="/members/sarra_alqahtani">
             <div class="description">
-                <img src="/media/members/Alqahtani.png" width="75%"/>
+                <div class="image-cropper">
+                    <img src="/media/members/Alqahtani.png"/>
+                </div>
                 <h2>Sarra Alqahtani</h2>
                 <p>Assistant Professor</p>
                 <p>Department of Computer Science</p>
@@ -260,7 +265,9 @@ function showSlides(n) {
     <div class="card-box">
         <a class="card-link" href="/members/paul_pauca">
             <div class="description">
-                <img src="/media/members/Paul2.jpg" width="75%"/>
+                <div class="image-cropper">
+                    <img src="/media/members/Paul2.jpg"/>
+                </div>
                 <h2>Paúl Pauca</h2>
                 <p>Professor</p>
                 <p>Department of Computer Science</p>
@@ -271,7 +278,9 @@ function showSlides(n) {
     <div class="card-box">
         <a class="card-link" href="/members/miles_silman">
             <div class="description">
-                <img src="/media/members/silman.jpg" width="75%"/>
+                <div class="image-cropper">
+                    <img src="/media/members/silman.jpg"/>
+                </div>
                 <h2>Miles Silman</h2>
                 <p>Professor</p>
                 <p>Department of Biology</p>
@@ -282,7 +291,9 @@ function showSlides(n) {
     <div class="card-box">
         <a class="card-link" href="/members/luis_fernandez">
             <div class="description">
-                <img src="/media/members/Luis.jpg" width="75%"/>
+                <div class="image-cropper">
+                    <img src="/media/members/Luis.jpg"/>
+                </div>
                 <h2>Luis E. Fernandez</h2>
                 <p>Executive Director</p>
                 <p>Amazonian Scientific Innovation</p>
@@ -293,7 +304,9 @@ function showSlides(n) {
     <div class="card-box">
         <a class="card-link" href="/members/david_lutz">
             <div class="description">
-                <img src="/media/members/david_lutz.jpg" width="75%"/>
+                <div class="image-cropper">
+                    <img src="/media/members/david_lutz.jpg"/>
+                </div>
                 <h2>David A. Lutz</h2>
                 <p>Research Assistant Professor</p>
                 <p>Department of Environmental Studies</p>
