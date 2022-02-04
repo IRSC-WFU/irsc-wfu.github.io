@@ -177,7 +177,47 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<!-- Might consider changing Faculty section to carousel or some other format over table -->
+<div class="honeycombs">
+    <div class="comb">
+      <img src="/media/members/Alqahtani.png" />
+      <span>
+        <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
+        <p>Assistant Professor</p>
+        <p>Department of Computer Science</p>
+        <p>Wake Forest University</p>
+      </span>
+    </div>
+    <div class="comb">
+      <img src="/media/members/Paul2.jpg" /> 
+        <span>
+            <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
+            <p>Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
+        </span>
+    </div>
+    <div class="comb">
+        <img src="/media/members/silman.jpg" />
+        <span>
+            <h2><a href="/members/miles_silman">Miles Silman</a></h2>
+            <p>Professor</p>
+            <p>Department of Biology</p>
+            <p>Wake Forest University</p>
+        </span>
+    </div>
+</div>
+
+<link rel="stylesheet" href="/assets/css/homeycombs.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/assets/js/jquery.homeycombs.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.honeycombs').honeycombs();
+    });
+</script>
+
 <div class="member-table">
     <div class="flip-card">
         <div class="flip-card-inner">
