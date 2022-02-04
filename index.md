@@ -177,6 +177,8 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
 <style>
 *{
     margin:0;
@@ -198,7 +200,6 @@ function showSlides(n) {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url("https://images.pexels.com/photos/3503629/pexels-photo-3503629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
@@ -233,12 +234,10 @@ function showSlides(n) {
     margin:20px 10px;
     font-family: 'Fira Code', monospace;
 }
-
 .description img{
     width: 75%;
     border-radius: 50%;
 }
-
 .description ul{
     list-style: none;
     width:100%;
@@ -271,16 +270,6 @@ ul.list li:hover .fa-linkedin-in{
     color:#077099;
 }
 </style>
-
-<script>
- VanillaTilt.init(document.querySelectorAll(".card-box"), {
-		max: 25,
-        speed: 400,
-        easing:"cubic-bezier(.03,.98,.52,.99)",
-        perspective:500,
-        transition:true
-    });
-</script>
 
 <div class="card-wrapper">
     <div class="card-box">
