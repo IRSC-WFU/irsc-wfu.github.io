@@ -177,7 +177,7 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<div class="outside-combs>
+<div class="outside-combs">
     <div class="honeycombs">
         <div class="comb">
             <img src="/media/members/Alqahtani.png" width = 200px height = 200px/>
