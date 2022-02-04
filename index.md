@@ -180,7 +180,7 @@ function showSlides(n) {
 <div class="profiles-wrapper">
     <div class="profile-card">
         <div class="img">
-            <img src="/media/members/Alqahtani.png" width = 200px height = 200px/>
+            <img src="/media/members/Alqahtani.png"/>
         </div>
         <div class="caption">
             <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
@@ -189,16 +189,24 @@ function showSlides(n) {
             <p>Wake Forest University</p>
         </div>
     </div>
+    <div class="profile-card">
+        <div class="img">
+            <img src="/media/members/Paul2.jpg"/>
+        </div>
+        <div class="caption">
+            <h3><a href="/members/paul_pauca">Paúl Pauca</a></h3>
+            <p>Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
+        </div>
+    </div>
 </div>
 
 <style>
     .profiles-wrapper{
-     width: 100%;
-     height: 100vh;
      display: flex;
      justify-content: center;
      align-items: center;
-     background-color: #0c5db9;
    }
 
    .profile-card{
@@ -229,6 +237,7 @@ function showSlides(n) {
 
    .img img{
      width: 100%;
+     height: 100%;
      border-radius: 50%;
      box-shadow: 0 0 22px #3336;
      transition: .6s;
