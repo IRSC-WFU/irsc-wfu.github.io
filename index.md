@@ -324,130 +324,46 @@ function showSlides(n) {
     </div>
 </div>
 
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 20%;
-  border-radius: 5px;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.card img {
-  border-radius: 5px 5px 0 0;
-}
-
-.caption h3,p {
-    text-align: center
-    font-size: 16em;
-}
-
-.card-container {
-  padding: 2px 16px;
-}
-</style>
-
-<div class="member-table">
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/Alqahtani.png"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
-            <p>Assistant Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/Paul2.jpg"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/paul_pauca">Paúl Pauca</a></h3>
-            <p>Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/silman.jpg"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/miles_silman">Miles Silman</a></h3>
-            <p>Professor</p>
-            <p>Department of Biology</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/Luis.jpg"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/luis_fernandez">Luis E. Fernandez</a></h3>
-            <p>Executive Director</p>
-            <p>Amazonian Scientific Innovation</p>
-            <p>Wake Forest University</p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="img">
-            <img src="/media/members/david_lutz.jpg"/>
-        </div>
-        <div class="caption">
-            <h3><a href="/members/david_lutz">David A. Lutz</a></h3>
-            <p>Research Assistant Professor</p>
-            <p>Department of Environmental Studies</p>
-            <p>Dartmouth College</p>
-        </div>
-    </div>     
-</div>
-
 #### Researchers
-<div class="member-table">
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/Seda-Camalan.jpg" alt="1" width = 200px height = 200px >
+<div class="card-wrapper">
+    <div class="card-box">
+        <a class="card-link" href="/members/seda_camalan">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/Seda-Camalan.jpg"/>
+                </div>
+                <h2>Seda Camalan</h2>
+                <p>Postdoctoral Fellow</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/seda_camalan">Seda Camalan</a></h2>
-            <p>Postdoctoral Fellow</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/evan new.jpg" alt="1" width = 200px height = 200px >
+    <div class="card-box">
+        <a class="card-link" href="/members/evan_dethier">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/evan new.jpg"/>
+                </div>
+                <h2>Evan Dethier</h2>
+                <p>Postdoctoral Fellow</p>
+                <p>Department of Earth Sciences</p>
+                <p>Dartmouth College</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/evan_dethier">Evan Dethier</a></h2>
-            <p>Postdoctoral Fellow</p>
-            <p>Department of Earth Sciences</p>
-            <p>Dartmouth College</p>
-            </div>
-        </div>
+        </a>
     </div>
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-                <img class="member-img" src="/media/members/robert_langefeld.jpg" alt="1" width = 200px height = 200px >
+    <div class="card-box">
+        <a class="card-link" href="/members/robert_langefeld">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/robert_langefeld.jpg"/>
+                </div>
+                <h2>Robert Langefeld</h2>
+                <p>Researcher</p>
+                <p>Departments of Mathematics and Computer Science</p>
+                <p>Wake Forest University</p>
             </div>
-        <div class="flip-card-back">
-            <h2><a href="/members/robert_langefeld">Robert Langefeld</a></h2>
-            <p>Researcher</p>
-            <p>Departments of Mathematics and Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
+        </a>
     </div>
 </div>
 
