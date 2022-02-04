@@ -177,59 +177,61 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<div class="honeycombs">
-    <div class="comb">
-        <img src="/media/members/Alqahtani.png" />
-        <span>
-            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
-            <p>Assistant Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </span>
-    </div>
-    <div class="comb">
-        <img src="/media/members/Paul2.jpg" /> 
-        <span>
-            <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
-            <p>Professor</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-        </span>
-    </div>
-    <div class="comb">
-        <img src="/media/members/silman.jpg" />
-        <span>
-            <h2><a href="/members/miles_silman">Miles Silman</a></h2>
-            <p>Professor</p>
-            <p>Department of Biology</p>
-            <p>Wake Forest University</p>
-        </span>
-    </div>
-    <div class="comb">
-        <img src="/media/members/Luis.jpg" />
-        <span>
-            <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
-            <p>Executive Director</p>
-            <p>Amazonian Scientific Innovation</p>
-            <p>Wake Forest University</p>
-        </span>
-    </div>
-    <div class="comb">
-        <h2>Faculty</h2>
-    </div>
-    <div class="comb">
-        <img src="/media/members/david_lutz.jpg" />
-        <span>
-            <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
-            <p>Research Assistant Professor</p>
-            <p>Department of Environmental Studies</p>
-            <p>Dartmouth College</p>
-        </span>
+<div class="outside-combs>
+    <div class="honeycombs">
+        <div class="comb">
+            <img src="/media/members/Alqahtani.png" width = 200px height = 200px/>
+            <span>
+                <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
+                <p>Assistant Professor</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
+            </span>
+        </div>
+        <div class="comb">
+            <img src="/media/members/Paul2.jpg" width = 200px height = 200px/> 
+            <span>
+                <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
+                <p>Professor</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
+            </span>
+        </div>
+        <div class="comb">
+            <img src="/media/members/silman.jpg" width = 200px height = 200px/>
+            <span>
+                <h2><a href="/members/miles_silman">Miles Silman</a></h2>
+                <p>Professor</p>
+                <p>Department of Biology</p>
+                <p>Wake Forest University</p>
+            </span>
+        </div>
+        <div class="comb">
+            <img src="/media/members/Luis.jpg" width = 200px height = 200px/>
+            <span>
+                <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
+                <p>Executive Director</p>
+                <p>Amazonian Scientific Innovation</p>
+                <p>Wake Forest University</p>
+            </span>
+        </div>
+        <div class="comb">
+            <h2>Faculty</h2>
+        </div>
+        <div class="comb">
+            <img src="/media/members/david_lutz.jpg" width = 200px height = 200px/>
+            <span>
+                <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
+                <p>Research Assistant Professor</p>
+                <p>Department of Environmental Studies</p>
+                <p>Dartmouth College</p>
+            </span>
+        </div>
     </div>
 </div>
 
 <style>
-.main {
+.outside-combs {
   display:flex;
   --s: 100px;  /* size  */
   --m: 4px;    /* margin */
