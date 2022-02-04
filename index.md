@@ -236,11 +236,11 @@ function showSlides(n) {
   --f: calc(1.732 * var(--s) + 4 * var(--m)  - 1px);
 }
 
-.honeycomb {
+.honeycombs {
   font-size: 0; /*disable white space between inline block element */
 }
 
-.honeycomb div {
+.honeycombs div {
   width: var(--s);
   margin: var(--m);
   height: calc(var(--s)*1.1547); 
@@ -251,7 +251,7 @@ function showSlides(n) {
   margin-bottom: calc(var(--m) - var(--s)*0.2885); 
 }
 
-.container::before {
+.honeycombs::before {
   content: "";
   width: calc(var(--s)/2 + var(--m));
   float: left;
