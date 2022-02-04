@@ -178,6 +178,117 @@ function showSlides(n) {
 ### [Members](members.md)
 #### Faculty
 <style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.card-body{
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-wrapper{
+    width:100%;
+    height:100%;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url("https://images.pexels.com/photos/3503629/pexels-photo-3503629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+.card-wrapper .card-box{
+    position: relative;
+    width:280px;
+    height:400px;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius:15px;
+    margin:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top:1px solid rgba(255,255,255,0.5);
+    border-left:1px solid rgba(255,255,255,0.5);
+    backdrop-filter: blur(5px);
+    transform-style: preserve-3d;
+    transform: perspective(800px) 
+}
+.description h2{
+    color:#f5f5f5;
+    font-size:2.5rem;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+}
+.description p{
+    color:#ccc;
+    margin:20px 10px;
+    font-family: 'Fira Code', monospace;
+}
+.description ul{
+    list-style: none;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin:30px 0;
+    padding:10px;
+}
+
+ul.list li{
+    cursor: pointer;
+    width:30px;
+    height:30px;
+}
+i{
+    color:#ccc;
+    font-size: 1.5rem;
+    transition: all 0.3s ease;
+}
+ul.list li:hover .fa-twitter{
+    transform:translate3d(0,-10px,20px);
+    color:#00acee;
+}
+ul.list li:hover .fa-github{
+    transform:translate3d(0,-10px,20px);
+    color:gray;
+}
+ul.list li:hover .fa-linkedin-in{
+    transform:translate3d(0,-10px,20px);
+    color:#077099;
+}
+</style>
+
+<script>
+ VanillaTilt.init(document.querySelectorAll(".box"), {
+		max: 25,
+        speed: 400,
+        easing:"cubic-bezier(.03,.98,.52,.99)",
+        perspective:500,
+        transition:true
+    });
+</script>
+
+<div class="card-wrapper">
+    <div class="card-box">
+        <div class="description">
+            <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
+            <p>Assistant Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
+            <img src="/media/members/Alqahtani.png"/>
+            <ul class="list">
+                <li><a href="https://github.com/rlangefe"><i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<style>
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -210,9 +321,9 @@ function showSlides(n) {
         </div>
         <div class="caption">
             <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
-            <p>Assistant Professor<br>
-            Department of Computer Science<br>
-            Wake Forest University</p>
+            <p>Assistant Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
         </div>
     </div>
     <div class="card">
