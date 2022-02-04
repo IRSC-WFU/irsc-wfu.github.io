@@ -323,7 +323,7 @@ function showSlides(n) {
                 <img class="member-img" src="/media/members/daniel_langefeld.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>Daniel Langefeld</h1>
+            <h2><a href="/members/daniel_langefeld">Daniel Langefeld</a></h2>
             <p>Research Assistant</p>
             <p>High School Senior</p>
             <p>Wesleyan Christian Academy</p>
@@ -333,12 +333,13 @@ function showSlides(n) {
     <div class="flip-card">
         <div class="flip-card-inner">
             <div class="flip-card-front">
-                <img class="member-img" src="/media/test_puppy.jpg" alt="1" width = 200px height = 200px >
+                <img class="member-img" src="/media/members/alice_li.jpg" alt="1" width = 200px height = 200px >
             </div>
         <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
+            <h2><a href="/members/alice_li">Alice Li</a></h2>
+            <p>Research Assistant</p>
+            <p>Departments of Statistics and Computer Science</p>
+            <p>Wake Forest University</p>
             </div>
         </div>
     </div>
