@@ -177,91 +177,100 @@ function showSlides(n) {
 -------------------------
 ### [Members](members.md)
 #### Faculty
-<div class="outside-combs">
-    <div class="honeycombs">
-        <div class="comb">
+<div class="profiles-wrapper">
+    <div class="profile-card">
+        <div class="img">
             <img src="/media/members/Alqahtani.png" width = 200px height = 200px/>
-            <span>
-                <h2><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h2>
-                <p>Assistant Professor</p>
-                <p>Department of Computer Science</p>
-                <p>Wake Forest University</p>
-            </span>
         </div>
-        <div class="comb">
-            <img src="/media/members/Paul2.jpg" width = 200px height = 200px/> 
-            <span>
-                <h2><a href="/members/paul_pauca">Paúl Pauca</a></h2>
-                <p>Professor</p>
-                <p>Department of Computer Science</p>
-                <p>Wake Forest University</p>
-            </span>
-        </div>
-        <div class="comb">
-            <img src="/media/members/silman.jpg" width = 200px height = 200px/>
-            <span>
-                <h2><a href="/members/miles_silman">Miles Silman</a></h2>
-                <p>Professor</p>
-                <p>Department of Biology</p>
-                <p>Wake Forest University</p>
-            </span>
-        </div>
-        <div class="comb">
-            <img src="/media/members/Luis.jpg" width = 200px height = 200px/>
-            <span>
-                <h2><a href="/members/luis_fernandez">Luis E. Fernandez</a></h2>
-                <p>Executive Director</p>
-                <p>Amazonian Scientific Innovation</p>
-                <p>Wake Forest University</p>
-            </span>
-        </div>
-        <div class="comb">
-            <h2>Faculty</h2>
-        </div>
-        <div class="comb">
-            <img src="/media/members/david_lutz.jpg" width = 200px height = 200px/>
-            <span>
-                <h2><a href="/members/david_lutz">David A. Lutz</a></h2>
-                <p>Research Assistant Professor</p>
-                <p>Department of Environmental Studies</p>
-                <p>Dartmouth College</p>
-            </span>
+        <div class="caption">
+            <h3><a href="/members/sarra_alqahtani">Sarra Alqahtani</a></h3>
+            <p>Assistant Professor</p>
+            <p>Department of Computer Science</p>
+            <p>Wake Forest University</p>
         </div>
     </div>
 </div>
 
 <style>
-.outside-combs {
-  display:flex;
-  --s: 100px;  /* size  */
-  --m: 4px;    /* margin */
-  --f: calc(1.732 * var(--s) + 4 * var(--m)  - 1px);
-}
+    .profiles-wrapper{
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: #0c5db9;
+   }
 
-.honeycombs {
-  font-size: 0; /*disable white space between inline block element */
-}
+   .profile-card{
+     position: relative;
+     font-family: sans-serif;
+     width: 220px;
+     height: 220px;
+     background: #fff;
+     padding: 30px;
+     border-radius: 50%;
+     box-shadow: 0 0 22px #3336;
+     transition: .6s;
+     margin: 0 25px;
+   }
 
-.honeycombs div {
-  width: var(--s);
-  margin: var(--m);
-  height: calc(var(--s)*1.1547); 
-  display: inline-block;
-  font-size:initial;
-  clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
-  background: red;
-  margin-bottom: calc(var(--m) - var(--s)*0.2885); 
-}
+   .profile-card:hover{
+     border-radius: 10px;
+     height: 260px;
+   }
 
-.honeycombs::before {
-  content: "";
-  width: calc(var(--s)/2 + var(--m));
-  float: left;
-  height: 120%;
-  shape-outside: repeating-linear-gradient(     
-                   #0000 0 calc(var(--f) - 3px),      
-                   #000  0 var(--f));
-}
+   .profile-card .img{
+     position: relative;
+     width: 100%;
+     height: 100%;
+     transition: .6s;
+     z-index: 99;
+   }
+
+   .img img{
+     width: 100%;
+     border-radius: 50%;
+     box-shadow: 0 0 22px #3336;
+     transition: .6s;
+   }
+
+   .profile-card:hover .img{
+     transform: translateY(-60px);
+   }
+
+   .profile-card:hover img{
+     border-radius: 10px;
+   }
+
+    .caption{
+     text-align: center;
+     transform: translateY(-80px);
+     opacity: 0;
+     transition: .6s;
+   }
+   .profile-card:hover .caption{
+     opacity: 1;
+   }
+   .caption h3{
+     font-size: 21px;
+     font-family: sans-serif;
+   }
+   .caption p{
+     font-size: 15px;
+     color: #0c52a1;
+     font-family: sans-serif;
+     margin: 2px 0 9px 0;
+   }
+
+   .caption .social-links a{
+     color: #333;
+     margin-right: 15px;
+     font-size: 21px;
+     transition: .6s;
+   }
+   .social-links a:hover{
+     color: #0c52a1;
+   }
 </style>
 
 <div class="member-table">
