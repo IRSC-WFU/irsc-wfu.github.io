@@ -220,6 +220,7 @@ function showSlides(n) {
 }
 .card-box{
     background-image: linear-gradient(120deg, #155799, #159957);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     
 }
 .description {
@@ -249,12 +250,10 @@ function showSlides(n) {
 }
 .card-link:hover{
     text-decoration: none;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-.card-link:hover{
+.card-box:hover{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 20%;
     border-radius: 5px;
 }
 </style>
