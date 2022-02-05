@@ -374,17 +374,7 @@ function showSlides(n) {
                 <p>Department of Engineering Sciences and Environmental Sciences</p>
                 <p>Dartmouth College</p>
             </div>
-<<<<<<< HEAD
-        <div class="flip-card-back">
-            <h2><a href="/members/adelina_sederman">Adelina Sederman</a></h2>
-            <p>Researcher</p>
-            <p>Department of Engineering Sciences and Environmental Sciences</p>
-            <p>Dartmouth College</p>
-            </div>
-        </div>
-=======
         </a>
->>>>>>> 4d90e12dd72b2a11f33da7f35d9c8e362ebd9cf6
     </div>
     <div class="card-box">
         <a class="card-link" href="/members/isaias_bahena">
@@ -397,17 +387,7 @@ function showSlides(n) {
                 <p>Department of Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
-<<<<<<< HEAD
-        <div class="flip-card-back">
-            <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
-            <p>Researcher</p>
-            <p>Department of Computer Science</p>
-            <p>Wake Forest University</p>
-            </div>
-        </div>
-=======
         </a>
->>>>>>> 4d90e12dd72b2a11f33da7f35d9c8e362ebd9cf6
     </div>
     <div class="card-box">
         <a class="card-link" href="/members/daniel_langefeld">
