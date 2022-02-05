@@ -448,7 +448,7 @@ Our lab explores novel methods and applications for computational technology to 
 
 -------------------------
 ### [Projects](projects.md)
-Featured projects
+Featured projects from the group
 
 
 -------------------------
