@@ -117,7 +117,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <a href="/members#faculty" style="text-decoration: none;">
-    <img src="media/test_puppy.png" style="width:100%">
+    <img src="media/news/faculty-COLLAGE.jpg" style="width:100%">
     <div class="text">Meet our faculty!</div>
   </a>
 </div>
