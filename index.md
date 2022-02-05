@@ -299,7 +299,7 @@ function showSlides(n) {
             </div>
         <div class="flip-card-back">
             <h2><a href="/members/adelina_sederman">Adelina Sederman</a></h2>
-            <p>Undergraduate Research Assistant</p>
+            <p>Researcher</p>
             <p>Department of Engineering Sciences and Environmental Sciences</p>
             <p>Dartmouth College</p>
             </div>
@@ -312,7 +312,7 @@ function showSlides(n) {
             </div>
         <div class="flip-card-back">
             <h2><a href="/members/isaias_bahena">Isaias Bahena</a></h2>
-            <p>Undergraduate Research Assistant</p>
+            <p>Researcher</p>
             <p>Department of Computer Science</p>
             <p>Wake Forest University</p>
             </div>
