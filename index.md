@@ -150,6 +150,8 @@ img {vertical-align: middle;}
 
 <script>
 var slideIndex = 1;
+var slideInterval = setInterval(plusSlides, 5000, 1);
+
 showSlides(slideIndex);
 
 function plusSlides(n) {
@@ -160,7 +162,9 @@ function currentSlide(n) {
   showSlides(slideIndex = n);
 }
 
+
 function showSlides(n) {
+  clearInterval(slideInterval);
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
@@ -174,6 +178,7 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
+  slideInterval = setInterval(plusSlides, 5000, 1);
 }
 </script>
 <!--- End News Feed Slideshow --->
