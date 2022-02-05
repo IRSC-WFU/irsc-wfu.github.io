@@ -116,20 +116,24 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="media/test_puppy.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <a href="/members#faculty" style="text-decoration: none;">
+    <img src="media/test_puppy.png" style="width:100%">
+    <div class="text">Meet our faculty!</div>
+  </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="media/test_puppy.png" style="width:100%">
-  <div class="text">Caption Two</div>
+  <a href="/members#student-research-team" style="text-decoration: none;">
+    <img src="media/test_puppy.png" style="width:100%">
+    <div class="text">Meet our researchers!</div>
+  </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="media/test_puppy.png" style="width:100%">
-  <div class="text">Caption Three</div>
+  <a href="/members#student-research-team" style="text-decoration: none;">
+    <img src="media/test_puppy.png" style="width:100%">
+    <div class="text">Meet our student research team!</div>
+  </a>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
