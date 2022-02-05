@@ -116,7 +116,7 @@ img {vertical-align: middle;}
 
 .slide-image{
     width:auto;
-    height: 530px;
+    height: 60vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
