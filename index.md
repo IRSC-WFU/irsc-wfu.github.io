@@ -39,6 +39,7 @@ img {vertical-align: middle;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  background-color: rgba(0,0,0,0.4);
 }
 
 /* Position the "next button" to the right */
@@ -59,8 +60,9 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
-  width: 100%;
+  width: auto;
   text-align: center;
+  background-color: grey;
 }
 
 /* Number text (1/3 etc) */
@@ -113,7 +115,7 @@ img {vertical-align: middle;}
 
 .slide-image{
     width:auto;
-    height: 100%;
+    height: 530px;
     display: block;
     margin-left: auto;
     margin-right: auto;
