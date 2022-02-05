@@ -101,7 +101,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/paul_pauca">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Paul2.jpg"/>
+                    <img src="/media/members/Paul2.png"/>
                 </div>
                 <h2>Paúl Pauca</h2>
                 <p>Professor</p>
@@ -114,7 +114,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/miles_silman">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/silman.jpg"/>
+                    <img src="/media/members/silman.png"/>
                 </div>
                 <h2>Miles Silman</h2>
                 <p>Professor</p>
@@ -127,7 +127,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/luis_fernandez">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Luis.jpg"/>
+                    <img src="/media/members/Luis.png"/>
                 </div>
                 <h2>Luis E. Fernandez</h2>
                 <p>Executive Director</p>
@@ -140,7 +140,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/david_lutz">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/david_lutz.jpg"/>
+                    <img src="/media/members/david_lutz.png"/>
                 </div>
                 <h2>David A. Lutz</h2>
                 <p>Research Assistant Professor</p>
@@ -158,7 +158,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/seda_camalan">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Seda-Camalan.jpg"/>
+                    <img src="/media/members/Seda-Camalan.png"/>
                 </div>
                 <h2>Seda Camalan</h2>
                 <p>Postdoctoral Fellow</p>
@@ -171,7 +171,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/evan_dethier">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/evan new.jpg"/>
+                    <img src="/media/members/evan new.png"/>
                 </div>
                 <h2>Evan Dethier</h2>
                 <p>Postdoctoral Fellow</p>
@@ -184,7 +184,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/robert_langefeld">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/robert_langefeld.jpg"/>
+                    <img src="/media/members/robert_langefeld.png"/>
                 </div>
                 <h2>Robert Langefeld</h2>
                 <p>Researcher</p>
@@ -202,7 +202,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/adelina_sederman">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/adelina_sederman.jpg"/>
+                    <img src="/media/members/adelina_sederman.png"/>
                 </div>
                 <h2>Adelina Sederman</h2>
                 <p>Research Assistant</p>
@@ -215,7 +215,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/isaias_bahena">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/isaias_bahena.jpg"/>
+                    <img src="/media/members/isaias_bahena.png"/>
                 </div>
                 <h2>Isaias Bahena</h2>
                 <p>Research Assistant</p>
@@ -228,7 +228,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/daniel_langefeld">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/daniel_langefeld.jpg"/>
+                    <img src="/media/members/daniel_langefeld.png"/>
                 </div>
                 <h2>Daniel Langefeld</h2>
                 <p>Research Assistant</p>
@@ -241,7 +241,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/alice_li">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/alice_li.jpg"/>
+                    <img src="/media/members/alice_li.png"/>
                 </div>
                 <h2>Alice Li</h2>
                 <p>Research Assistant</p>
