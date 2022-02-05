@@ -58,7 +58,7 @@ img {vertical-align: middle;}
   color: #f2f2f2;
   font-size: 15px;
   padding: 8px 12px;
-  position: absolute;
+  position: relative;
   bottom: 8px;
   width: auto;
   text-align: center;
