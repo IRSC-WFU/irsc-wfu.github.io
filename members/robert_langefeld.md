@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Robert Langefeld
-<img src="/media/members/robert_langefeld.jpg" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/robert_langefeld.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
 
 Robert is a senior mathematics and computer science double major. His research with the 
 IRSC Lab involves object detection, image segmentation, 3D reconstruction, and statistical 
