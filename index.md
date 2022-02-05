@@ -110,6 +110,14 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+.slide-image{
+    width:auto;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 </style>
 
 <div class="slideshow-container">
@@ -117,21 +125,21 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <a href="/members#faculty" style="text-decoration: none;">
-    <img src="media/news/faculty-COLLAGE.jpg" style="width:auto;height: 100%;">
+    <img class="slide-image" src="media/news/faculty-COLLAGE.jpg">
     <div class="text">Meet our faculty!</div>
   </a>
 </div>
 
 <div class="mySlides fade">
   <a href="/members#researchers" style="text-decoration: none;">
-    <img src="media/news/researchers-COLLAGE.jpg" style="width:auto;height: 100%;">
+    <img class="slide-image" src="media/news/researchers-COLLAGE.jpg">
     <div class="text">Meet our researchers!</div>
   </a>
 </div>
 
 <div class="mySlides fade">
   <a href="/members#student-research-team" style="text-decoration: none;">
-    <img src="media/news/student-research-team-COLLAGE.jpg" style="width:auto;height: 100%;">
+    <img class="slide-image" src="media/news/student-research-team-COLLAGE.jpg">
     <div class="text">Meet our student research team!</div>
   </a>
 </div>
