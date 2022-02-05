@@ -72,6 +72,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   top: 0;
+  background-color: grey;
 }
 
 /* The dots/bullets/indicators */
@@ -125,8 +126,8 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
   <a href="/members#faculty" style="text-decoration: none;">
+    <div class="numbertext">1 / 3</div>
     <img class="slide-image" src="media/news/faculty-COLLAGE.jpg">
     <div class="text">Meet our faculty!</div>
   </a>
@@ -134,6 +135,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <a href="/members#researchers" style="text-decoration: none;">
+    <div class="numbertext">2 / 3</div>
     <img class="slide-image" src="media/news/researchers-COLLAGE.jpg">
     <div class="text">Meet our researchers!</div>
   </a>
@@ -141,6 +143,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <a href="/members#student-research-team" style="text-decoration: none;">
+    <div class="numbertext">3 / 3</div>
     <img class="slide-image" src="media/news/student-research-team-COLLAGE.jpg">
     <div class="text">Meet our student research team!</div>
   </a>
