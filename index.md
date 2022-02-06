@@ -369,6 +369,19 @@ function showSlides(n) {
         </a>
     </div>
     <div class="card-box">
+        <a class="card-link" href="/members/jason_cui">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/kcui.png"/>
+                </div>
+                <h2>Jason Cui</h2>
+                <p>Researcher</p>
+                <p>Department of Mathematics</p>
+                <p>City University of Hong Kong</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
         <a class="card-link" href="/members/robert_langefeld">
             <div class="description">
                 <div class="image-cropper">
@@ -470,14 +483,14 @@ Our lab explores novel methods and applications for computational technology to 
 
 -------------------------
 ### [Projects](projects.md)
-Featured projects from the group
+Coming Soon!
 
 
 -------------------------
 ### [Publications](publications.md)
-Featured publications
+Coming Soon!
 
 
 -------------------------
 ### [Contact](contact.md)
-Contact info
+Coming Soon!
