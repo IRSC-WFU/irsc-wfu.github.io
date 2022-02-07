@@ -450,6 +450,19 @@ function showSlides(n) {
             </div>
         </a>
     </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/shanyu_gowdu">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/shanyu_gowdu.png"/>
+                </div>
+                <h2>Shanyu Gowdu</h2>
+                <p>Research Assistant</p>
+                <p>High School Junior</p>
+                <p>North Carolina School of Science and Math</p>
+            </div>
+        </a>
+    </div>
 </div>
 
 
