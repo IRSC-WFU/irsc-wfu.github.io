@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Sarra Alqahtani
-<img src="/media/members/Alqahtani.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/hd/sarra_alqahtani.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
 Dr. Sarra Alqahtani is an assistant professor in the Computer Science Department at Wake Forest University. She received her PhD from University of Tulsa in 2015 and spent 2 years as a postdoc associate there. She received her BS in computer science at King Saud University in 2006 and her MA in Information systems at King Saud University in 2009.
 
 

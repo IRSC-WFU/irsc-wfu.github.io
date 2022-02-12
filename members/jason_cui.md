@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Jason Cui
-<img src="/media/members/kcui.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/hd/jason_cui.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
 
 Jason is a Ph.D. student in the Department of Mathematics at City University of Hong Kong. His research with the IRSC Lab focuses on developing efficient semi-supervised machine learning algorithms to recognize and classify changes in mining activities. 
 

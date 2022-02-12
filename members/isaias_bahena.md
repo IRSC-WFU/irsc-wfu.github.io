@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Isaias Bahena
-<img src="/media/members/isaias_bahena.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/hd/isaias_bahena.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
 Isaias is a freshman at Wake Forest University. He is planning to double major in Computer Science and Mathematics with a minor in Engineering. His research with the IRSC Lab student team involves reading in image data and plotting it using various different types of graphs to find any useful information to the group. He is currently working on constructing neural networks and has learned machine learning.
 
 

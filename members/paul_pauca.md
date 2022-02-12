@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Paúl Pauca
-<img src="/media/members/Paul2.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/hd/pauca_page.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
 I am a Professor of Computer Science at Wake Forest University, Lelia and David Farr Professor of Innovation, Creativity, and Entrepreneurship, and Faculty Director of the [Center for Entrepreneurship](http://wfuentrepreneurship.info/).
 
 
