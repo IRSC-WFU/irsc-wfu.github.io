@@ -338,6 +338,19 @@ function showSlides(n) {
             </div>
         </a>
     </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/bob_plemmons">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/bob_plemmons.png"/>
+                </div>
+                <h2>Bob Plemmons</h2>
+                <p>Research Professor</p>
+                <p>Departments of Computer Science and Mathematics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
 </div>
 
 #### Researchers
