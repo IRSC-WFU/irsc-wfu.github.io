@@ -40,9 +40,6 @@ Several faculty from multiple departments at Wake Forest and at other universiti
     align-items: center;
     border-top:1px solid rgba(255,255,255,0.5);
     border-left:1px solid rgba(255,255,255,0.5);
-    backdrop-filter: blur(5px);
-    transform-style: preserve-3d;
-    transform: perspective(800px) 
 }
 .card-box{
     background-image: linear-gradient(120deg, #155799, #159957);
@@ -88,7 +85,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/sarra_alqahtani">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Alqahtani.png"/>
+                    <img src="/media/members/Alqahtani.jpg" height="120px"/>
                 </div>
                 <h2>Sarra Alqahtani</h2>
                 <p>Assistant Professor</p>
@@ -101,7 +98,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/paul_pauca">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Paul2.png"/>
+                    <img src="/media/members/Paul2.jpg" height="120px"/>
                 </div>
                 <h2>Paúl Pauca</h2>
                 <p>Professor</p>
@@ -114,7 +111,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/miles_silman">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/silman.png"/>
+                    <img src="/media/members/silman.jpg" height="120px"/>
                 </div>
                 <h2>Miles Silman</h2>
                 <p>Professor</p>
@@ -127,7 +124,7 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/luis_fernandez">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Luis.png"/>
+                    <img src="/media/members/Luis.jpg" height="120px"/>
                 </div>
                 <h2>Luis E. Fernandez</h2>
                 <p>Executive Director</p>
@@ -140,12 +137,25 @@ Several faculty from multiple departments at Wake Forest and at other universiti
         <a class="card-link" href="/members/david_lutz">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/david_lutz.png"/>
+                    <img src="/media/members/david_lutz.jpg" height="120px"/>
                 </div>
                 <h2>David A. Lutz</h2>
                 <p>Research Assistant Professor</p>
                 <p>Department of Environmental Studies</p>
                 <p>Dartmouth College</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/bob_plemmons">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/bob_plemmons.jpg" height="120px"/>
+                </div>
+                <h2>Bob Plemmons</h2>
+                <p>Research Professor</p>
+                <p>Departments of Computer Science and Mathematics</p>
+                <p>Wake Forest University</p>
             </div>
         </a>
     </div>
@@ -158,7 +168,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/seda_camalan">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/Seda-Camalan.png"/>
+                    <img src="/media/members/Seda-Camalan.jpg" height="120px"/>
                 </div>
                 <h2>Seda Camalan</h2>
                 <p>Postdoctoral Fellow</p>
@@ -171,7 +181,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/evan_dethier">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/evan new.png"/>
+                    <img src="/media/members/evan new.jpg" height="120px"/>
                 </div>
                 <h2>Evan Dethier</h2>
                 <p>Postdoctoral Fellow</p>
@@ -184,7 +194,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/jason_cui">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/kcui.png"/>
+                    <img src="/media/members/kcui.jpg" height="120px"/>
                 </div>
                 <h2>Jason Cui</h2>
                 <p>Researcher</p>
@@ -197,7 +207,7 @@ The IRSC Lab has several researchers working on various projects.
         <a class="card-link" href="/members/robert_langefeld">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/robert_langefeld.png"/>
+                    <img src="/media/members/robert_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Robert Langefeld</h2>
                 <p>Researcher</p>
@@ -215,7 +225,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/adelina_sederman">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/adelina_sederman.png"/>
+                    <img src="/media/members/adelina_sederman.jpg" height="120px"/>
                 </div>
                 <h2>Adelina Sederman</h2>
                 <p>Research Assistant</p>
@@ -228,7 +238,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/isaias_bahena">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/isaias_bahena.png"/>
+                    <img src="/media/members/isaias_bahena.jpg" height="120px"/>
                 </div>
                 <h2>Isaias Bahena</h2>
                 <p>Research Assistant</p>
@@ -241,7 +251,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/daniel_langefeld">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/daniel_langefeld.png"/>
+                    <img src="/media/members/daniel_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Daniel Langefeld</h2>
                 <p>Research Assistant</p>
@@ -254,7 +264,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/alice_li">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/alice_li.png"/>
+                    <img src="/media/members/alice_li.jpg" height="120px"/>
                 </div>
                 <h2>Alice Li</h2>
                 <p>Research Assistant</p>
@@ -267,7 +277,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/shanyu_gowdu">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/shanyu_gowdu.png"/>
+                    <img src="/media/members/shanyu_gowdu.jpg" height="120px"/>
                 </div>
                 <h2>Shanyu Gowdu</h2>
                 <p>Research Assistant</p>
@@ -277,68 +287,3 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         </a>
     </div>
 </div>
-
-<style>
-.member-img {
-  border-radius: 10%;
-  object-fit: cover;
-}
-
-.member-table {
-    width: 100%;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-    row-gap: 10px;
-    column-gap: 10px;
-}
-
-/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
-.flip-card {
-  background-color: transparent;
-  width: 200px;
-  height: 200px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
-}
-
-/* This container is needed to position the front and back side */
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
-}
-
-/* Do an horizontal flip when you move the mouse over the flip box container */
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-
-/* Position the front and back side */
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-}
-
-/* Style the front side (fallback if image is missing) */
-.flip-card-front {
-  color: black;
-}
-
-/* Style the back side */
-.flip-card-back {
-  background-color: grey;
-  color: white;
-  transform: rotateY(180deg);
-  border-radius: 10%;
-  display: block;
-  font-size: 1.5vh;
-}
-</style>
