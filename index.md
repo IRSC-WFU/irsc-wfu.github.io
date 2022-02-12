@@ -229,9 +229,6 @@ function showSlides(n) {
     align-items: center;
     border-top:1px solid rgba(255,255,255,0.5);
     border-left:1px solid rgba(255,255,255,0.5);
-    backdrop-filter: blur(5px);
-    transform-style: preserve-3d;
-    transform: perspective(800px) 
 }
 .card-box{
     background-image: linear-gradient(120deg, #155799, #159957);
