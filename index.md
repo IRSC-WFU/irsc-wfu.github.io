@@ -404,6 +404,19 @@ function showSlides(n) {
             </div>
         </a>
     </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/isabella_tian">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/isabella_tian.jpg" height="120px"/>
+                </div>
+                <h2>Isabella Tian</h2>
+                <p>Researcher</p>
+                <p>Departments of Statistics and Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
 </div>
 
 #### Student Research Team
