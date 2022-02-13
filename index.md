@@ -520,7 +520,7 @@ Here are some of the lab's recent publications!
 
 - Xiaotian Liu, Pengyi Shi, TongTong Liu, Sarra Alqahtani, Victor Paúl Pauca, and Miles Silman, "Robustness-Driven Exploration with Probabilistic Metric Temporal Logic", the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021).
 
-- Ashley Peake*, Joe McCalmon*, Yixin Zhang, Benjamin Raiford, and Sarra Alqahtani, "Wilderness Search and Rescue Missions using Deep Reinforcement Learning," IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020.
+- Ashley Peake\*, Joe McCalmon\*, Yixin Zhang, Benjamin Raiford, and Sarra Alqahtani, "Wilderness Search and Rescue Missions using Deep Reinforcement Learning," IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020.
 
 
 
