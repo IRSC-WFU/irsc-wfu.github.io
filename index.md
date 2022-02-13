@@ -511,7 +511,17 @@ Coming Soon!
 
 -------------------------
 ### [Publications](publications.md)
-Coming Soon!
+Here are some of the lab's recent publications!
+
+
+- Ashley Peake, Joe McCalmon, Yixin Zhang, Daniel Myers, Sarra Alqahtani, Victor Paúl Pauca, "Deep Reinforcement Learning for Adaptive Exploration of Unknown Environments", the IEEE International Conference on Unmanned Aircraft Systems, (ICUAS '21).
+
+- Yixin Zhang, Joe McCalmon, Ashley Peake, Sarra Alqahtani, Victor Paúl Pauca, "A Symbolic-AI Approach for UAV Exploration Tasks", the 8th International Conference on Automation, Robotics and Applications (ICARA 2021), accepted.
+
+- Xiaotian Liu, Pengyi Shi, TongTong Liu, Sarra Alqahtani, Victor Paúl Pauca, and Miles Silman, "Robustness-Driven Exploration with Probabilistic Metric Temporal Logic", the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021).
+
+- Ashley Peake*, Joe McCalmon*, Yixin Zhang, Benjamin Raiford, and Sarra Alqahtani, "Wilderness Search and Rescue Missions using Deep Reinforcement Learning," IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020.
+
 
 
 -------------------------
