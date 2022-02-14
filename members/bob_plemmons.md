@@ -5,7 +5,7 @@ parent-collection: members
 ---
 
 ## Bob Plemmons
-<img src="/media/members/hd/bob_plemmons.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
+<img src="/media/members/hd/bob_plemmons.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: right; margin: 10px">
 Bob grew up in Western NC on the edge of Blue Ridge Mountains (1938 57). Baseball was his passion, and it led to a college education and financial start as a pro. He played at Wake Forest, Math. Major (1957-61) and signed with Baltimore Orioles, as a pitcher in minor leagues 3 years, and played in numerous cities across the US. 
 
 
