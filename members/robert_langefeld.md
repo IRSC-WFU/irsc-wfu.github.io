@@ -14,9 +14,10 @@ Student Research Team.
 
 
 Robert is also involved in research for his senior theses on the PaLD clustering algorithm with high performance 
-computing and with computational optimizations for molecular dynamics simulations using GPUs. Robert is currently 
-applying to graduate school for an MS in biostatistics with the intent to continue to his PhD. He is interested in 
-multi-omics, specifically statistical genetics and genomics, and modern high performance computing methods.
+computing and with computational optimizations for molecular dynamics simulations using GPUs. In the fall, Robert
+will attend the MS program in the Department of Biostatistics at the University of Michigan with the intent to 
+continue on to his PhD. He is interested in multi-omics, specifically statistical genetics and genomics, and 
+modern high performance computing methods.
 
 In his spare time, Robert enjoys learning languages (currently speaks English, Spanish, Chinese 
 and Korean) and practicing calisthenics.
