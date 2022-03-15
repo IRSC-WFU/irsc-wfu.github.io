@@ -210,7 +210,7 @@ The IRSC Lab has several researchers working on various projects.
                     <img src="/media/members/robert_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Robert Langefeld</h2>
-                <p>Researcher</p>
+                <p>Researcher and Student Research Team Coordinator</p>
                 <p>Departments of Mathematics and Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
@@ -229,11 +229,6 @@ The IRSC Lab has several researchers working on various projects.
             </div>
         </a>
     </div>
-</div>
-
-### Student Research Team
-Meet our Student Research Team! The IRSC Lab works with students in multiple departments, schools, and universities to train them in conducting research with the kinds of projects we work with. These students are currently conducting research with our lab and working towards publications and future work in this and related fields.
-<div class="card-wrapper">
     <div class="card-box">
         <a class="card-link" href="/members/adelina_sederman">
             <div class="description">
@@ -241,7 +236,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
                     <img src="/media/members/adelina_sederman.jpg" height="120px"/>
                 </div>
                 <h2>Adelina Sederman</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Department of Engineering Sciences and Environmental Sciences</p>
                 <p>Dartmouth College</p>
             </div>
@@ -254,7 +249,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
                     <img src="/media/members/isaias_bahena.jpg" height="120px"/>
                 </div>
                 <h2>Isaias Bahena</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Department of Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
@@ -267,7 +262,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
                     <img src="/media/members/daniel_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Daniel Langefeld</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>High School Senior</p>
                 <p>Wesleyan Christian Academy</p>
             </div>
@@ -280,8 +275,39 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
                     <img src="/media/members/alice_li.jpg" height="120px"/>
                 </div>
                 <h2>Alice Li</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Departments of Statistics and Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+### Student Research Team
+Meet our Student Research Team! The IRSC Lab works with students in multiple departments, schools, and universities to train them in conducting research with the kinds of projects we work with. These students are currently conducting research with our lab and working towards publications and future work in this and related fields.
+<div class="card-wrapper">
+    <div class="card-box">
+        <a class="card-link" href="/members/alex_zolman">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/alex_zolman.jpg" height="120px"/>
+                </div>
+                <h2>Alex Zolman</h2>
+                <p>Research Assistant</p>
+                <p>Departments of Biology and Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/alex_latuda">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/alex_latuda.jpg" height="120px"/>
+                </div>
+                <h2>Alex Latuda</h2>
+                <p>Research Assistant</p>
+                <p>Departments of Biology and Statistics</p>
                 <p>Wake Forest University</p>
             </div>
         </a>

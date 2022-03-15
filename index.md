@@ -398,7 +398,7 @@ function showSlides(n) {
                     <img src="/media/members/robert_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Robert Langefeld</h2>
-                <p>Researcher</p>
+                <p>Researcher and Student Research Team Coordinator</p>
                 <p>Departments of Mathematics and Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
@@ -417,10 +417,6 @@ function showSlides(n) {
             </div>
         </a>
     </div>
-</div>
-
-#### Student Research Team
-<div class="card-wrapper">
     <div class="card-box">
         <a class="card-link" href="/members/adelina_sederman">
             <div class="description">
@@ -428,7 +424,7 @@ function showSlides(n) {
                     <img src="/media/members/adelina_sederman.jpg" height="120px"/>
                 </div>
                 <h2>Adelina Sederman</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Department of Engineering Sciences and Environmental Sciences</p>
                 <p>Dartmouth College</p>
             </div>
@@ -441,7 +437,7 @@ function showSlides(n) {
                     <img src="/media/members/isaias_bahena.jpg" height="120px"/>
                 </div>
                 <h2>Isaias Bahena</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Department of Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
@@ -454,7 +450,7 @@ function showSlides(n) {
                     <img src="/media/members/daniel_langefeld.jpg" height="120px"/>
                 </div>
                 <h2>Daniel Langefeld</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>High School Senior</p>
                 <p>Wesleyan Christian Academy</p>
             </div>
@@ -467,8 +463,38 @@ function showSlides(n) {
                     <img src="/media/members/alice_li.jpg" height="120px"/>
                 </div>
                 <h2>Alice Li</h2>
-                <p>Research Assistant</p>
+                <p>Researcher</p>
                 <p>Departments of Statistics and Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+#### Student Research Team
+<div class="card-wrapper">
+    <div class="card-box">
+        <a class="card-link" href="/members/alex_zolman">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/alex_zolman.jpg" height="120px"/>
+                </div>
+                <h2>Alex Zolman</h2>
+                <p>Research Assistant</p>
+                <p>Departments of Biology and Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/alex_latuda">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/members/alex_latuda.jpg" height="120px"/>
+                </div>
+                <h2>Alex Latuda</h2>
+                <p>Research Assistant</p>
+                <p>Departments of Biology and Statistics</p>
                 <p>Wake Forest University</p>
             </div>
         </a>
