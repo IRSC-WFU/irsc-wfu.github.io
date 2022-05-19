@@ -5,10 +5,9 @@ navigation_weight: 3
 ---
 ## Members
 <!-- Want to add links to individual pages for each lab member with biography and photo -->
-At the Wake Forest IRSC Lab, we have many members in various roles.
 
 ### Faculty
-Several faculty from multiple departments at Wake Forest and at other universities work with the IRSC Lab.
+
 <!-- Might consider changing Faculty section to carousel or some other format over table -->
 <style>
 .card-body{
@@ -313,15 +312,15 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         </a>
     </div>
     <div class="card-box">
-        <a class="card-link" href="/members/shanyu_gowdu">
+        <a class="card-link" href="/members/lily_li">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/members/shanyu_gowdu.jpg" height="120px"/>
+                    <img src="/media/members/LilyLi.jpg" height="120px"/>
                 </div>
-                <h2>Shanyu Gowdu</h2>
+                <h2>Lily Li</h2>
                 <p>Research Assistant</p>
-                <p>High School Junior</p>
-                <p>North Carolina School of Science and Math</p>
+                <p>School of Business and Department of Statistics</p>
+                <p>Wake Forest University</p>
             </div>
         </a>
     </div>
