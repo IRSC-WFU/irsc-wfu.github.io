@@ -151,8 +151,8 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img class="slide-image" src="media/news/student-research-team-COLLAGE.jpg">
-    <div class="text">Meet our student research team!</div>
+    <img class="slide-image" src="media/news/LabGroupPhoto.jpeg">
+    <div class="text">Our Summer Kick Off Social!</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
