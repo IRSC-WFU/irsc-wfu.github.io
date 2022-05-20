@@ -324,4 +324,247 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/bruce_shao">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Bruce Shao</h2>
+                <p>Research Assistant</p>
+                <p>Department of Computer Science</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/aman_khemlani">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Aman Khemlani</h2>
+                <p>Research Assistant</p>
+                <p>Department of Economics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/emma_gao">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Emma Gao</h2>
+                <p>Research Assistant</p>
+                <p>Department of Economics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/nicole_sung">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Nicole Sung</h2>
+                <p>Research Assistant</p>
+                <p></p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/zongyue_teng">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Zongyue Teng</h2>
+                <p>Research Assistant</p>
+                <p>Department of Statistics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/sean_mealey">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Sean Mealey</h2>
+                <p>Research Assistant</p>
+                <p></p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/hazel_guo">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Hazel Guo</h2>
+                <p>Research Assistant</p>
+                <p>Department of Statistics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/hazel_guo">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Hazel Guo</h2>
+                <p>Research Assistant</p>
+                <p>Department of Statistics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/molly_davis">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Molly Davis</h2>
+                <p>Research Assistant</p>
+                <p>Department of Biology</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/heng_zhang">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Heng Zhang</h2>
+                <p>Research Assistant</p>
+                <p></p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+     </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/eric_lin">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Eric Lin</h2>
+                <p>Research Assistant</p>
+                <p>School of Business</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/christy_ye">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Christy Ye</h2>
+                <p>Research Assistant</p>
+                <p>Department of Psychology</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/jerry_liu">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Jerry Liu</h2>
+                <p>Research Assistant</p>
+                <p>School of Business</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/emily_lu">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Emily Lu</h2>
+                <p>Research Assistant</p>
+                <p>Department of Statistics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/katie_nicholls">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Katie Nicholls</h2>
+                <p>Research Assistant</p>
+                <p>Department of Earth, Marine, and Environmental Sciences</p>
+                <p>University of North Carolina at Chapel Hill</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/yutong_li">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Yutong Li</h2>
+                <p>Research Assistant</p>
+                <p></p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/chester_pan">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Chester Pan</h2>
+                <p>Research Assistant</p>
+                <p>Department of Statistics</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
+    </div>
+        <div class="card-box">
+        <a class="card-link" href="/members/joanna_wu">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Joanna Wu</h2>
+                <p>Research Assistant</p>
+                <p>School of Business</p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
 </div>
