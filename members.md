@@ -502,7 +502,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
                 <h2>Katie Nicholls</h2>
                 <p>Research Assistant</p>
                 <p>Department of Earth, Marine, and Environmental Sciences</p>
-                <p>University of North Carolina at Chapel Hill</p>
+                <p>UNC - Chapel Hill</p>
             </div>
         </a>
     </div>
