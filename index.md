@@ -249,6 +249,7 @@ Here are some of the lab's recent publications!
 
 - Ashley Peake\*, Joe McCalmon\*, Yixin Zhang, Benjamin Raiford, and Sarra Alqahtani, "Wilderness Search and Rescue Missions using Deep Reinforcement Learning," IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020.
 
+-Camalan, S.; Cui, K.; Pauca, V.P.; Alqahtani, S.; Silman, M.; Chan, R.; Plemmons, R.J.; Dethier, E.N.; Fernandez, L.E.; Lutz, D.A. Change Detection of Amazonian Alluvial Gold Mining Using Deep Learning and Sentinel-2 Imagery. Remote Sens. 2022, 14, 1746. https://doi.org/10.3390/rs14071746
 
 
 -------------------------
