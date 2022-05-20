@@ -416,19 +416,6 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         </a>
     </div>
     <div class="card-box">
-        <a class="card-link" href="/members/hazel_guo">
-            <div class="description">
-                <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
-                </div>
-                <h2>Hazel Guo</h2>
-                <p>Research Assistant</p>
-                <p>Department of Statistics</p>
-                <p>Wake Forest University</p>
-            </div>
-        </a>
-    </div>
-        <div class="card-box">
         <a class="card-link" href="/members/molly_davis">
             <div class="description">
                 <div class="image-cropper">
@@ -441,8 +428,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+    <div class="card-box">
         <a class="card-link" href="/members/heng_zhang">
             <div class="description">
                 <div class="image-cropper">
@@ -455,8 +441,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-     </div>
-        <div class="card-box">
+     <div class="card-box">
         <a class="card-link" href="/members/eric_lin">
             <div class="description">
                 <div class="image-cropper">
@@ -469,8 +454,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+     <div class="card-box">
         <a class="card-link" href="/members/christy_ye">
             <div class="description">
                 <div class="image-cropper">
@@ -483,8 +467,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+    <div class="card-box">
         <a class="card-link" href="/members/jerry_liu">
             <div class="description">
                 <div class="image-cropper">
@@ -497,8 +480,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+     <div class="card-box">
         <a class="card-link" href="/members/emily_lu">
             <div class="description">
                 <div class="image-cropper">
@@ -511,8 +493,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+    <div class="card-box">
         <a class="card-link" href="/members/katie_nicholls">
             <div class="description">
                 <div class="image-cropper">
@@ -525,8 +506,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+     <div class="card-box">
         <a class="card-link" href="/members/yutong_li">
             <div class="description">
                 <div class="image-cropper">
@@ -539,8 +519,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+    <div class="card-box">
         <a class="card-link" href="/members/chester_pan">
             <div class="description">
                 <div class="image-cropper">
@@ -553,8 +532,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
-    </div>
-        <div class="card-box">
+    <div class="card-box">
         <a class="card-link" href="/members/joanna_wu">
             <div class="description">
                 <div class="image-cropper">
