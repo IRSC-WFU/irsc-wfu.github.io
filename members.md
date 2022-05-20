@@ -545,4 +545,17 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
             </div>
         </a>
     </div>
+    <div class="card-box">
+        <a class="card-link" href="/members/yang_xiao">
+            <div class="description">
+                <div class="image-cropper">
+                    <img src="/media/test_puppy.png" height="120px"/>
+                </div>
+                <h2>Yang Xiao</h2>
+                <p>Research Assistant</p>
+                <p></p>
+                <p>Wake Forest University</p>
+            </div>
+        </a>
+    </div>
 </div>

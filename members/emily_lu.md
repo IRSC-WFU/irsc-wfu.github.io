@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bruce Shao
+title: Emily Lu
 parent-collection: members
 ---
 
-## Bruce Shao
+## Emily Lu
 <img src="/media/test_puppy.png" alt="1" width = 200px height = 300px style="object-fit: cover; float: left; margin: 10px">
