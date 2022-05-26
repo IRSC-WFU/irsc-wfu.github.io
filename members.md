@@ -328,11 +328,11 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/bruce_shao">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
+                    <img src="/media/members/bruce_shao.jpg" height="120px"/>
                 </div>
                 <h2>Bruce Shao</h2>
                 <p>Research Assistant</p>
-                <p>Department of Computer Science</p>
+                <p>Departments of Computer Science and Statistics</p>
                 <p>Wake Forest University</p>
             </div>
         </a>
@@ -406,11 +406,11 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/hazel_guo">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
+                    <img src="/media/members/hazel_gao.jpg" height="120px"/>
                 </div>
                 <h2>Hazel Guo</h2>
                 <p>Research Assistant</p>
-                <p>Department of Statistics</p>
+                <p>Departments of Statistics and Sociology</p>
                 <p>Wake Forest University</p>
             </div>
         </a>
@@ -419,7 +419,7 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/molly_davis">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
+                    <img src="/media/members/molly_davis.JPG" height="120px"/>
                 </div>
                 <h2>Molly Davis</h2>
                 <p>Research Assistant</p>
@@ -549,11 +549,11 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/yang_xiao">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
+                    <img src="/media/members/yang_xiao.JPG" height="120px"/>
                 </div>
                 <h2>Yang Xiao</h2>
                 <p>Research Assistant</p>
-                <p></p>
+                <p>Departments of Mathematics and Computer Science</p>
                 <p>Wake Forest University</p>
             </div>
         </a>
