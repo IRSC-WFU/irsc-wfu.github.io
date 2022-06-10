@@ -445,11 +445,11 @@ Meet our Student Research Team! The IRSC Lab works with students in multiple dep
         <a class="card-link" href="/members/eric_lin">
             <div class="description">
                 <div class="image-cropper">
-                    <img src="/media/test_puppy.png" height="120px"/>
+                    <img src="/media/members/eric_lin.jpg" height="120px"/>
                 </div>
                 <h2>Eric Lin</h2>
                 <p>Research Assistant</p>
-                <p>School of Business</p>
+                <p>Department of Computer Science and School of Business</p>
                 <p>Wake Forest University</p>
             </div>
         </a>
